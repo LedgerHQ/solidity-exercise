@@ -43,7 +43,7 @@ This exercise **must be done in [Solidity](https://docs.soliditylang.org/)**. Th
 The tools and libraries listed below are already set-up for you. However, feel free to modify the configuration or even the stack to fit your needs.
 - [Ethers.js](https://docs.ethers.io/v5/): a JavaScript library to interact with Ethereum
 - [Waffle](https://getwaffle.io/): a library for testing smart contracts.
-- [Chai](chaijs.com): a BDD/TDD assertion library
+- [Chai](https://chaijs.com): a BDD/TDD assertion library
 - [Solhint](https://protofire.github.io/solhint/): a Solidity linter
 - [Typescript](https://www.typescriptlang.org/): a strongly typed programming language that builds on JavaScript
 - [Typechain](https://github.com/dethcrypto/TypeChain): a TypeScript blinders for Ethereum smart contracts
@@ -51,7 +51,7 @@ The tools and libraries listed below are already set-up for you. However, feel f
 ## Instructions
 
 ### Exercise
-⚠️ All user stories and **one** feature request of your choice have to be implemented in Solidity. ⚠️
+⚠️ All user stories and **one** feature request of your choice have to be implemented in Solidity. ⚠️ <br/>
 You will have to implement them in the `/contracts` folder.
 
 The definition of done for a user story is:
@@ -71,10 +71,10 @@ Please, read the following user stories to implement:
 ### Additional rules
 - Everytime a player attack the boss, the boss will counterattack the player. Both will loose life points
 - A dead character can no longer do anything but can be healed
-- Only the characters who attacked the boss can receive the reward in xp
+- Only characters who attacked the boss can receive the reward in xp
 - A new boss can't be populated if the current one isn't defeated
-- A Player can't heal himself
-- Only Players who already earn experiences can cast the heal spell
+- A player can't heal himself
+- Only players who already earn experiences can cast the heal spell
 
 ### Feature Requests
 Please, read the following feature requests and pick one to implement:
@@ -108,13 +108,12 @@ type Character = {
 - At Ledger we really focus on details. Verify your work before sending it to us
 
 ## Restitution
-Please document your code or modify this `README.md` file to describe your choices, practices, etc.
-​
+Please document your code or modify this `README.md` file to describe your choices, practices, etc. <br/>
 Share your code with us using a **private** repository - [GitHub](https://github.com/).
 
 
 ---
 
 
-**Thank you for your time and good luck! 🍀**
-**Powered by Ledger**
+**Thank you for your time and good luck! 🍀** <br/>
+**Powered by [Ledger](https://www.ledger.com/)**
