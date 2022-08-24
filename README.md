@@ -110,7 +110,7 @@ type Character = {
 
 ## Restitution
 Please document your code or modify this `README.md` file to describe your choices, practices, etc. <br/>
-Share your code with us using a **private** repository - [GitHub](https://github.com/).
+Share your code with us using a **private** repository on [GitHub](https://github.com/) and invite us ([@qd-qd](https://github.com/qd-qd) and [@CremaFR](https://github.com/CremaFR))
 
 
 ---
