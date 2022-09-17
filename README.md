@@ -19,7 +19,6 @@ Below you will find the instructions of this exercise.
 ## Before beginning
 Keep in mind that:
 - You only have to be focused on the smart contract, not on the UI
-- You do not necessary have to find the perfect gasless solution, we are interested in the way you'll conceive the program
 - You do not have to write code out of the `/contracts` folder, nevertheless you can if you think it's necessary
 - Keep in mind your code quality will be appreciated
 
